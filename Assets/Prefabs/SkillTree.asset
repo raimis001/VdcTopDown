@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32c95a81f380af746b2bb716c9037bc2, type: 3}
+  m_Name: SkillTree
+  m_EditorClassIdentifier: 
+  skills:
+  - name: Swords
+    level: 3
+    current: 0.25
+  - name: Bows
+    level: 0
+    current: 0
+  - name: Shields
+    level: 0
+    current: 0
+  - name: Running
+    level: 2
+    current: 0.16666667
+  - name: Health
+    level: 2
+    current: 0.33333334
+  - name: Stamina
+    level: 4
+    current: 0.9000001

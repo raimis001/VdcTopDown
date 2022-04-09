@@ -1,0 +1,56 @@
+errors
+	transform.right = Vector2.MoveTowards 100%
+	Zombie dying animation on respawn 100%
+
+1. Moving to mouse		100%
+	shift to run		100%
+	
+2. Attacks
+	Meele attack - left mouse click 100%
+	Range attack		100%
+	
+
+3. Shield defence - 	100%
+
+4. Hitpoints 
+	restore hitpoints 	100%
+	-> eating system	100%
+	
+5. Zombie AI
+	Bow chasing			100%
+	Attack sequence 	100%
+
+6. Inventory 20%
+
+5. Eating system
+	Increase health		100%
+	
+
+7. Skill tree 
+	run skill 			100%
+	meele skill 		100%
+	range attack skill 	100%
+	shield skill		100%
+
+Bush					100%
+	time to grow
+	fruits when ready
+	harvest
+	
+Fruit					100%
+	inventory
+	eat - give health
+
+
+6. Stamina 				100%
+	go st > maxStamina
+	run st < x
+	attack st < x
+	
+Building mode
+	campfire			100%
+
+============
+
+8. Procedural Generated Map (PCG)
+
